@@ -7,7 +7,11 @@ then run the application.
 
 Endpoints
 http://localhost:8080/products/
+
 http://localhost:8080/products/create
+
 http://localhost:8080/products/save
+
 http://localhost:8080/products/update
+
 http://localhost:8080/products/delete
