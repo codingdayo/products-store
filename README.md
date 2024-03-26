@@ -1,4 +1,4 @@
-A Web application built wusing Java Spring Boot, Spring MVC, MySQL and Thymeleaf. 
+A Web application built using Java Spring Boot, Spring MVC, MySQL and Thymeleaf. 
 
 You can perform CRUD Operations on it using the spring framework and validate the form data with spring MVC
 
